@@ -1,0 +1,1 @@
+print('Hello, guys! Git is awesome.')
